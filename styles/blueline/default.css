@@ -1,0 +1,44 @@
+#navigation-wrapper {
+  margin: 0em;
+  padding: 0em;
+  
+  overflow: hidden;
+  position: relative;
+}
+
+#navigation-outer {
+  float: left;
+  position: relative;
+  left: 50%;
+  padding: 0%;
+}
+
+#navigation-inner {
+  float: left;
+  position: relative;
+  left: -50%;
+}
+
+.navigation {
+  list-style: none;
+
+  padding-left: 0em;
+  padding-right: 0em;
+
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  
+  text-align: center;
+}
+
+.navitem {
+  display: inline;
+  font-weight: bolder;
+  margin: 0em 0.5em;
+}
+
+.nav-curpage a {
+  color: #6D79A9;
+}

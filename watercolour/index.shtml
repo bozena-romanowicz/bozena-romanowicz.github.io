@@ -1,0 +1,112 @@
+<!--#include virtual="/includes/html_head_top.incl"-->
+  <title>Watercolour - Artist Bozena Romanowicz - bozenaromanowicz.com</title>
+<!--#include virtual="/includes/html_head_scripts.incl"-->
+  <script type="text/javascript">
+$(function() {
+    $("#nav-watercolour").addClass("nav-curpage");
+});  
+  </script>
+<!--#include virtual="/includes/html_head_bottom.incl"-->
+
+<body alink=white vlink=white link=white bgcolor=#00091A>
+<font color=white>
+
+<center>
+<img src="/heading.jpg" width=1000>
+</center>
+
+<!--#include virtual="/includes/navigation.incl"-->
+
+<br>
+<br>
+<br>
+
+<center>
+<table width=75% border=0>
+
+<TR>
+<TD>
+<center>
+<a href="/watercolour/malwy.jpg"><img src="/watercolour/malwy.jpg" width=200></a>
+</TD>
+<TD>
+<p> 
+	<font color=white>
+	<b> Title: </b> Mallow
+	<br>
+	<b> Size: </b> 22x28 (on canvas)
+	<br>
+	<b> Price: </b> $350
+</TD>
+</TR>
+
+<TR>
+<TD>
+<center>
+<a href="/watercolour/apples.jpg"><img src="/watercolour/apples.jpg" width=200></a>
+</TD>
+<TD>
+<p> 
+	<font color=white>
+	<b> Title: </b>Apples
+	<br>
+	<b> Size: </b> 10x14
+	<br>
+	<b> Price: </b> SOLD
+</TD>
+</TR>
+
+<TR>
+<TD>
+<center>
+<a href="/watercolour/pink_flowers.jpg"><img src="/watercolour/pink_flowers.jpg" width=200></a>
+</TD>
+<TD>
+<p> 
+	<font color=white>
+	<b> Title: </b> Pink Flowers
+	<br>
+	<b> Size: </b> 9x12
+	<br>
+	<b> Price: </b> $250
+</TD>
+</TR>
+
+<TR>
+<TD>
+<center>
+<a href="/watercolour/tomatoes.jpg"><img src="/watercolour/tomatoes.jpg" width=200></a>
+</TD>
+<TD>
+<p> 
+	<font color=white>
+	<b> Title: </b> Tomatoes
+	<br>
+	<b> Size: </b> 9x13
+	<br>
+	<b> Price: </b> $200
+</TD>
+</TR>
+
+<TR>
+<TD>
+<center>
+<a href="/watercolour/two_pink_flowers.jpg"><img src="/watercolour/two_pink_flowers.jpg" width=200></a>
+</TD>
+<TD>
+<p> 
+	<font color=white>
+	<b> Title: </b> Two Pink Flowers
+	<br>
+	<b> Size: </b> 9x12
+	<br>
+	<b> Price: </b> $150
+</TD>
+</TR>
+
+
+
+</TABLE>
+</center>
+</body>
+</html>

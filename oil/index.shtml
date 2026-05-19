@@ -1,0 +1,355 @@
+<!--#include virtual="/includes/html_head_top.incl"-->
+  <title>Oil - Artist Bozena Romanowicz - bozenaromanowicz.com</title>
+<!--#include virtual="/includes/html_head_scripts.incl"-->
+  <script type="text/javascript">
+$(function() {
+    $("#nav-oil").addClass("nav-curpage");
+});  
+  </script>
+<!--#include virtual="/includes/html_head_bottom.incl"-->
+
+<body alink=white vlink=white link=white bgcolor=#00091A>
+<font color=white>
+
+<center>
+<img src="/heading.jpg" width=1000>
+</center>
+
+<!--#include virtual="/includes/navigation.incl"-->
+
+<br>
+<br>
+<br>
+
+
+
+<center><TABLE width=600>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/tulips.jpg"><img src="/oil/tulips.jpg" height="150"></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Tulips
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 16x20
+	<br>
+	<b>Price: $170</b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/apples.jpg"><img src="/oil/apples.jpg" height="215"></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Apples
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> n/a
+	<br>
+	<b>Price: $170</b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/dokis.jpg"><img src="/oil/dokis.jpg" height="150"></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Untitled
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> n/a
+	<br>
+	<b>Price: $750</b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/Untitled1.jpg"><img src="/oil/Untitled1.jpg" height=100></a>&nbsp;<a href="/oil/Untitled2.jpg"><img src="/oil/Untitled2.jpg" height=100></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Untitled work - Auctioned at FASM
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 10x10
+	<br>
+	<b><font color=red>SOLD</font></b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/singers.jpg"><img src="/oil/singers.jpg" height=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Untitled
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 24x30
+	<br>
+	<b>Price: $750</b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/horse_ride.jpg"><img src="/oil/horse_ride.jpg" height=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Untitled
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 22x28
+	<br>
+	<b>Price: $600</b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/trzciny.jpg"><img src="/oil/trzciny.jpg" height=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Untitled
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 36x48
+	<br>
+	<b><font color=red>SOLD</font></b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/liscie.jpg"><img src="/oil/liscie.jpg" height=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Untitled
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 36x48
+	<br>
+	<b>Price: $1500</b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/crawford.jpg"><img src="/oil/crawford.jpg" width=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Crawford Lake
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 24x36
+	<br>
+	<b>Price: $950</b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/desert.jpg"><img src="/oil/desert.jpg" width=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Flower I
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 20x24
+	<br>
+	<b>Price: $350</b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/forest.jpg"><img src="/oil/forest.jpg" width=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Forest
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 20x24
+	<br>
+	<b>Price: $550</b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/river.jpg"><img src="/oil/river.jpg" height=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> River
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 18x24
+	<br> 
+	<b>Price: $450 </b>
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/okno.jpg"><img src="/oil/okno.jpg" width=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> At the window
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 20x24
+	<br> 
+	<b>Price: $550 </b> 
+
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/balet.jpg"><img src="/oil/balet.jpg" height=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Ballet
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 17x20
+	<br> Price:<b> $400 </b> 
+
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center> <a href="/oil/drzewo.jpg"><img src="/oil/drzewo.jpg" width=150> </a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Beaver
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 20x24
+	<br> Price:<b> $600 </b> 
+
+</TD>
+</TR>
+
+<TR>
+<TD>
+
+	<center><a href="/oil/ule.jpg"><img src="/oil/ule.jpg" height=150> </a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Hives
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 24x30
+	<br> Price:<b> $750 </b> 
+
+</TD>
+</TR>
+
+</table>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!--#include virtual="/includes/html_head_top.incl"-->
+  <title>Home - Artist Bozena Romanowicz - bozenaromanowicz.com</title>
+  <!--[if lt IE 7]>
+  <style type="text/css">
+body {
+  overflow-x: hidden;
+}
+
+  </style>
+  <![endif]--> 
+<!--#include virtual="/includes/html_head_scripts.incl"-->
+  <script type="text/javascript">
+$(function() {
+    $("#nav-home").addClass("nav-curpage");
+});  
+  </script>
+<!--#include virtual="/includes/html_head_bottom.incl"-->
+
+<body alink=white vlink=white link=white bgcolor=#00091A>
+<font color=white>
+
+<center>
+<img src="/heading.jpg" width=1000>
+</center>
+
+<!--#include virtual="/includes/navigation.incl"-->
+
+  <!--[if lt IE 7]>
+  <div id="ie6Warning" style="padding: 0px 50px; text-align: center; clear: both;">
+  <p>If you are seeing this message, you are browsing using Internet Explorer 6. Due to technical limitations in Internet Explorer 6, you may find that not all features of this site work as intended. For the best web experience, we strongly recommend upgrading to <a href="http://www.getfirefox.com/">Firefox</a>, <a href="http://www.opera.com/">Opera</a>, <a href="http://www.apple.com/safari/">Safari</a>, <a href="http://www.google.com/chrome">Google Chrome</a>, or a more recent version of <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">Internet Explorer</a>.</p>
+  </div>
+  <![endif]--> 
+
+<br>
+
+<center>
+<table width=75% border=0>
+<tr>
+
+
+<td>
+
+<! 2013 Valentime Show and Sale>
+<font color=#6D79A9><b>October 17th, 2013</b><br>
+<font color=white><b>Art Show and Sale</b><br>
+<b> Please come and see selected work displayed and available for sale at Comfort Inn 1500 Matheson Blvd. Mississauga, Ontario 
+</td>
+</table>
+</center>
+<br>
+<br>
+<center>
+<font color=white>
+To contact Bozena about her work, please e-mail her at: <!--#include virtual="/includes/email.incl"-->
+</center>
+
+<a title="website statistics" href="http://www.statcounter.com/free_web_stats.html" target="_blank"><img src="http://c.statcounter.com/4313160/0/5954758f/1/" alt="website statistics" border="0"></a>
+</body>
+</html>

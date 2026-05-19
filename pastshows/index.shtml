@@ -1,0 +1,39 @@
+<!--#include virtual="/includes/html_head_top.incl"-->
+  <title>Past Shows - Artist Bozena Romanowicz - bozenaromanowicz.com</title>
+<!--#include virtual="/includes/html_head_scripts.incl"-->
+  <script type="text/javascript">
+$(function() {
+    $("#nav-pastshows").addClass("nav-curpage");
+});  
+  </script>
+<!--#include virtual="/includes/html_head_bottom.incl"-->
+
+<body alink=white vlink=white link=white bgcolor=#00091A>
+<font color=white>
+
+<center>
+<img src="/heading.jpg" width=1000>
+</center>
+
+<!--#include virtual="/includes/navigation.incl"-->
+
+<br>
+<br>
+<br>
+
+<center>
+<table width=75% border=0>
+<tr>
+
+<td>
+<font color=white>
+<center> This site is under construction.
+
+</td>
+</table>
+</center>
+<br>
+<br>
+
+</body>
+</html>

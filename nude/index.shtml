@@ -1,0 +1,54 @@
+<!--#include virtual="/includes/html_head_top.incl"-->
+  <title>Nude - Artist Bozena Romanowicz - bozenaromanowicz.com</title>
+<!--#include virtual="/includes/html_head_scripts.incl"-->
+  <script type="text/javascript">
+$(function() {
+    $("#nav-nude").addClass("nav-curpage");
+});  
+  </script>
+<!--#include virtual="/includes/html_head_bottom.incl"-->
+
+<body alink=white vlink=white link=white bgcolor=#00091A>
+<font color=white>
+
+<center>
+<img src="/heading.jpg" width=1000>
+</center>
+
+<!--#include virtual="/includes/navigation.incl"-->
+
+<br>
+<br>
+<br>
+
+<center><TABLE width=600>
+
+<TR>
+<TD>
+
+	<center><a href="/nude/nude1.jpg"><img src="/nude/nude1.jpg" width=150></a>
+
+</TD>
+<TD>
+<p>
+	
+	<font color=white>
+	<b> Title: </b> Untitled
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 15x30
+	<br>
+	<b><font color=red>SOLD</font></b>
+</TD>
+</TR>
+
+
+
+</table>
+
+
+
+
+</body>
+</html>

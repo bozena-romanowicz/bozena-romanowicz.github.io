@@ -1,0 +1,15 @@
+<div id="navigation-wrapper">
+ <div id="navigation-outer"><div id="navigation-inner">
+  <ol class="navigation">
+   <li class="navitem" id="nav-home"><a href="/">HOME</a></li>
+   <li class="navitem" id="nav-portrait"><a href="/portrait/">PORTRAIT</a></li>
+   <li class="navitem" id="nav-nude"><a href="/nude/">NUDE</a></li>
+   <li class="navitem" id="nav-commission"><a href="/commission/">COMMISSION</a></li>
+   <li class="navitem" id="nav-pastel"><a href="/pastel/">PASTEL</a></li>
+   <li class="navitem" id="nav-watercolour"><a href="/watercolour/">WATERCOLOUR</a></li>
+   <li class="navitem" id="nav-oil"><a href="/oil/">OIL</a></li>
+   <li class="navitem" id="nav-pastshows"><a href="/pastshows/">PAST SHOWS</a></li>
+   <li class="navitem" id="nav-contact"><a href="/contact/">E-MAIL</a></li>
+  </ol>
+ </div></div>
+</div>

@@ -1,0 +1,165 @@
+<!--#include virtual="/includes/html_head_top.incl"-->
+  <title>Portrait - Artist Bozena Romanowicz - bozenaromanowicz.com</title>
+<!--#include virtual="/includes/html_head_scripts.incl"-->
+  <script type="text/javascript">
+$(function() {
+    $("#nav-portrait").addClass("nav-curpage");
+});  
+  </script>
+<!--#include virtual="/includes/html_head_bottom.incl"-->
+
+<body alink=white vlink=white link=white bgcolor=#00091A>
+
+<font color=white>
+
+<center>
+<img src="/heading.jpg" width=1000>
+</center>
+
+<!--#include virtual="/includes/navigation.incl"-->
+
+<center><p>Portraits from photographs are available for order.  Please contact Bozena at: <!--#include virtual="/includes/email.incl"--></p></center>
+<br>
+
+<center>
+<table width=75% border=0>
+
+
+<tr>
+
+<td width=30%>
+	<center><a href=/portrait/portrait3.jpg><img src="/portrait/portrait3.jpg" width=200></a></center>
+</td>
+
+<td width=30%>
+	<center><a href=/portrait/portrait4.jpg><img src="/portrait/portrait4.jpg" width=200></a></center>
+</td>
+
+</tr>
+
+
+<tr>
+<td width=30%>
+<center>
+	<font color=white>
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 20x16
+	<br> 
+	</center>	
+	<hr>
+ 
+</td>
+
+<td width=30%>
+<center>
+	<font color=white>
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 18x14
+	<br> 
+	</center>	
+	<hr>
+	 
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=30%>
+	<center><a href=/portrait/portrait2.jpg><img src="/portrait/portrait2.jpg" width=200></a></center>
+</td>
+
+
+<td width=30%>
+	<center><a href=/portrait/portrait.jpg><img src="/portrait/portrait.jpg" width=200></a></center>
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=30%>
+<center>	
+	<font color=white>
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 16x12
+	<br> 
+	</center>	
+	<hr>
+	 
+</td>
+
+<td width=30%>
+<center>	
+	<font color=white>
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 18x14
+	<br> 
+	</center>	
+	<hr>
+	 
+</td>
+</tr>
+
+
+<!-- Added Maja to portriats -->
+
+<tr>
+
+<td width=30%>
+	<center><a href=/portrait/maja.jpg><img src="/portrait/maja.jpg" width=200></a></center>
+</td>
+
+
+<td width=30%>
+	<center>  </center>
+</td>
+
+</tr>
+
+
+
+<tr>
+
+<td width=30%>
+<center>	
+	<font color=white>
+	<br>
+	<b> Medium: </b> Oil
+	<br>
+	<b>Size: </b> 16x20
+	<br> 
+	</center>	
+	<hr>
+	 
+</td>
+
+<td width=30%>
+<center>	
+	
+	</center>	
+	<hr>
+	 
+</td>
+</tr>
+
+
+
+</table>
+
+
+
+</body>
+</html>

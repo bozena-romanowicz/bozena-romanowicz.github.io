@@ -1,0 +1,187 @@
+<!--#include virtual="/includes/html_head_top.incl"-->
+  <title>Pastel - Artist Bozena Romanowicz - bozenaromanowicz.com</title>
+<!--#include virtual="/includes/html_head_scripts.incl"-->
+  <script type="text/javascript">
+$(function() {
+    $("#nav-pastel").addClass("nav-curpage");
+});  
+  </script>
+<!--#include virtual="/includes/html_head_bottom.incl"-->
+
+<body alink=white vlink=white link=white bgcolor=#00091A>
+<font color=white>
+
+<center>
+<img src="/heading.jpg" width=1000>
+</center>
+
+<!--#include virtual="/includes/navigation.incl"-->
+
+<br>
+<br>
+<br>
+
+<center>
+<table width=75% border=0>
+<tr>
+
+
+
+<TD>
+<center>
+<table>
+
+<TR>
+<TD>
+<a href="/pastel/On_the_grass.jpg"><img src="/pastel/On_the_grass.jpg" width=200></a>
+</TD>
+<TD> 
+	<font color=white>
+	<b> Title: </b> On The Grass 
+	<br>
+	<b> Size: </b> 27x21
+	<br>
+	<b> Price: </b> $750
+</TD>
+</tr>
+
+<tr>
+<TD>
+<a href="/pastel/horses.jpg"><img src="/pastel/horses.jpg" width=200></a>
+</TD>
+<TD>
+	<font color=white>
+	<b> Title: </b> Horses 
+	<br>
+	<b> Size: </b> 25x20
+	<br>
+	<b> Price: </b> $750
+</TD>
+</TR>
+
+<TR>
+<TD>
+<a href="/pastel/dawn.jpg"><img src="/pastel/dawn.jpg" width=200></a>
+</TD>
+<TD>
+<p> 
+	<font color=white>
+	<b> Title: </b> Dawn 
+	<br>
+	<b> Size: </b> 20x14
+	<br>
+	<b> Price: </b> $350
+</TD>
+</tr>
+
+<TR>
+<TD>
+<a href="/pastel/konie_orka.jpg"><img src="/pastel/konie_orka.jpg" width=200></a>
+</TD>
+<TD>
+	<font color=white>
+	<b> Title: </b> Plowing
+	<br>
+	<b> Size: </b> 28x22
+	<br>
+	<b> Price: </b> $750
+</TD>
+</tr>
+
+<tr>
+<TD>
+<a href="/pastel/winter.jpg"><img src="/pastel/winter.jpg" width=200></a>
+</TD>
+<TD>
+	<font color=white>
+	<b> Title: </b> Winter
+	<br>
+	<b> Size: </b> 20x13
+	<br>
+	<b> Price: </b> $350
+</TD>
+</TR>
+
+
+
+<tr>
+<TD>
+<a href="/pastel/winter_2.jpg"><img src="/pastel/winter_2.jpg" width=200></a>
+</TD>
+<TD>
+	<font color=white>
+	<b> Title: </b> Winter II
+	<br>
+	<b> Size: </b> 20x13
+	<br>
+	<b> Price: </b> $350
+</TD>
+</TR>
+
+
+
+<tr>
+<TD>
+<a href="/pastel/sunset_3.jpg"><img src="/pastel/sunset_3.jpg" height=200></a>
+</TD>
+<TD>
+	<font color=white>
+	<b> Title: </b> Sunset III
+	<br>
+	<b> Size: </b> 20x14
+	<br>
+	<b> Price: </b> $350
+</TD>
+</TR>
+
+
+
+
+
+<TR>
+<TD>
+<a href="/pastel/sunset_tree.jpg"><img src="/pastel/sunset_tree.jpg" width=200></a>
+</TD>
+<TD>
+	<font color=white>
+	<b> Title: </b> Sunset IV
+	<br>
+	<b> Size: </b> 20x13
+	<br>
+	<b> Price: </b> $350
+</TD>
+</tr>
+
+<tr>
+<TD>
+<a href="/pastel/grass.jpg"><img src="/pastel/grass.jpg" height=200></a>
+</TD>
+<TD>
+	<font color=white>
+	<b> Title: </b> Blooming Grass
+	<br>
+	<b> Size: </b> 20x13
+	<br>
+	<b> Price: </b> $350
+</TD>
+</TR>
+
+<tr>
+<TD>
+<a href="/pastel/sailboat.jpg"><img src="/pastel/sailboat.jpg" width=200></a>
+</TD>
+<TD>
+	<font color=white> 
+	<b> Title: </b> Sailboat
+	<br>
+	<b> Size: </b> 20x13
+	<br>
+	<b> Price: </b> $350
+</TD>
+</TR>
+
+
+</TABLE>
+</center>
+</body>
+</html>
